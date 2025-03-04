@@ -1,13 +1,17 @@
 
 #  **Setup Instructions**
 
-## **1️⃣ Clone the Repository**
+![image](https://github.com/user-attachments/assets/6bac4f3c-eed9-43de-98a8-48b679bdd73a)
+![image](https://github.com/user-attachments/assets/a25ee4a2-57fa-4a12-804f-6230a46c9ae6)
+
+
+## ** Clone the Repository**
 ```sh
 git clone https://github.com/ank646/Expense.git
 cd expense
 ```
 
-## **2️⃣ Install Dependencies**
+## ** Install Dependencies**
 
 ### **Backend**
 ```sh
@@ -23,7 +27,7 @@ npm install
 
 ---
 
-## **3️⃣ Configuration**
+## ** Configuration**
 
 ### **Backend**
 1. Create a **`.env`** file inside the **backend** folder and add:
@@ -48,9 +52,7 @@ npm install
    npm start
    ```
 
-
-
-## **5️⃣ Run the Application**
+## ** Run the Application**
 1. **Start the backend:**  
    ```sh
    cd backend
