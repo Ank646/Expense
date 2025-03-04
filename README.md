@@ -38,7 +38,7 @@ npm install
 
 2. Start the backend server:
    ```sh
-   npm start
+   nodemon
    ```
 
 ### Frontend
