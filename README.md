@@ -5,21 +5,21 @@
 ![image](https://github.com/user-attachments/assets/a25ee4a2-57fa-4a12-804f-6230a46c9ae6)
 
 
-## ** Clone the Repository**
+##  Clone the Repository
 ```sh
 git clone https://github.com/ank646/Expense.git
 cd expense
 ```
 
-## ** Install Dependencies**
+##  Install Dependencies
 
-### **Backend**
+### Backend
 ```sh
 cd backend
 npm install
 ```
 
-### **Frontend**
+### Frontend
 ```sh
 cd frontend
 npm install
@@ -27,10 +27,10 @@ npm install
 
 ---
 
-## ** Configuration**
+##  Configuration
 
-### **Backend**
-1. Create a **`.env`** file inside the **backend** folder and add:
+### Backend
+1. Create a `.env` file inside the backend folder and add:
    ```env
    
    MONGO_URI=your-mongodb-connection-string
@@ -41,8 +41,8 @@ npm install
    npm start
    ```
 
-### **Frontend**
-1. Create a **`.env`** file inside the **frontend** folder:
+### Frontend
+1. Create a `.env` file inside the frontend folder:
    ```env
    REACT_APP_API_URL=http://localhost:5000
    ```
@@ -52,19 +52,19 @@ npm install
    npm start
    ```
 
-## ** Run the Application**
-1. **Start the backend:**  
+##  Run the Application
+1. Start the backend:
    ```sh
    cd backend
    npm start
    ```
 
-2. **Start the frontend:**  
+2. Start the frontend:
    ```sh
    cd frontend
    npm start
    ```
 
-3. Open **http://localhost:3000** in your browser.   
+3. Open http://localhost:3000 in your browser.   
 
 ---
